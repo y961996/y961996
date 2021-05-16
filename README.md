@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://komarev.com/ghpvc/?username=y961996" alt="yunus" />
 <!--
 **y961996/y961996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
