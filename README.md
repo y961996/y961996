@@ -1,16 +1,14 @@
-### Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=y961996&color=blue&style=plastic" alt="yunus" />
-<!--
-**y961996/y961996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <div">
+    <h2> Hi I'm GuciGenk </h2>
+    <img src="https://komarev.com/ghpvc/?username=y961996&color=blue&style=plastic" alt="yunus" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=y961996&theme=highcotrast" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y961996&layout=compact" />
+  </div>
+  <div>
+    <h3>I have no idea what am I doing ?¿</h3>
+  </div>
+</div>
